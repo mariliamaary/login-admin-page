@@ -1,6 +1,5 @@
-# Login Admin Page
-
-Interface de login desenvolvida com HTML e CSS, simulando uma página de acesso administrativo com foco em layout, responsividade e experiência do usuário.
+# Página de Login – 
+Administrador 👩‍💻 Interface de login desenvolvida com **HTML e CSS**, simulando uma página de acesso administrativo com foco em **layout**, **responsividade** e **experiência do usuário**.
 
 ## Demonstração
 
@@ -8,11 +7,12 @@ Interface de login desenvolvida com HTML e CSS, simulando uma página de acesso 
 
 > Se a imagem não aparecer, há uma cópia em: https://github.com/mariliamaary/login-admin-page/blob/main/login.png
 
-## Funcionalidades
-- Layout limpo e moderno
-- Responsivo para diferentes tamanhos de tela
-- Campos de formulário estilizados
-- Foco na experiência do usuário (UX)
+## 🚀 Funcionalidades 
+- Tela de login com design moderno
+- Layout limpo e responsivo
+- Campos estilizados para melhor usabilidade
+- Estrutura simples e fácil de entender
+- Ideal para integrar com back-end futuramente
 
 ## Tecnologias
 - HTML
